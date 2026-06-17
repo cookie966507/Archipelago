@@ -1,0 +1,1817 @@
+{
+    "regions": [
+        {
+            "name": "Ivory",
+            "connections": [
+                {
+                    "target": "Sapphire",
+                    "rules": [
+                        {
+                            "or_group": [
+                                94324253995
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sapphire",
+            "connections": []
+        }
+    ],
+    "locations": [
+        {
+            "code_name": "Loc_00020",
+            "id": 202234236668,
+            "region": "Ivory",
+            "sanity_requirement": 0,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00021",
+            "id": 202234236669,
+            "region": "Ivory",
+            "sanity_requirement": 0,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00000",
+            "id": 202234236648,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00001",
+            "id": 202234236649,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00002",
+            "id": 202234236650,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00003",
+            "id": 202234236651,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00004",
+            "id": 202234236652,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00005",
+            "id": 202234236653,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00006",
+            "id": 202234236654,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00007",
+            "id": 202234236655,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00008",
+            "id": 202234236656,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00009",
+            "id": 202234236657,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00010",
+            "id": 202234236658,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00011",
+            "id": 202234236659,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00012",
+            "id": 202234236660,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00013",
+            "id": 202234236661,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00014",
+            "id": 202234236662,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00015",
+            "id": 202234236663,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00016",
+            "id": 202234236664,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00017",
+            "id": 202234236665,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00018",
+            "id": 202234236666,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00019",
+            "id": 202234236667,
+            "region": "Ivory",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00289",
+            "id": 202234236937,
+            "region": "Ivory",
+            "sanity_requirement": 0,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00025",
+            "id": 202234236673,
+            "region": "Ivory",
+            "sanity_requirement": 0,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00022",
+            "id": 202234236670,
+            "region": "Ivory",
+            "sanity_requirement": 0,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00023",
+            "id": 202234236671,
+            "region": "Ivory",
+            "sanity_requirement": 0,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00024",
+            "id": 202234236672,
+            "region": "Ivory",
+            "sanity_requirement": 0,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00290",
+            "id": 202234236938,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00205",
+            "id": 202234236853,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00209",
+            "id": 202234236857,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00226",
+            "id": 202234236874,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00234",
+            "id": 202234236882,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00448",
+            "id": 202234237096,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00247",
+            "id": 202234236895,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00169",
+            "id": 202234236817,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00264",
+            "id": 202234236912,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00251",
+            "id": 202234236899,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00152",
+            "id": 202234236800,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00153",
+            "id": 202234236801,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00154",
+            "id": 202234236802,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00155",
+            "id": 202234236803,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00156",
+            "id": 202234236804,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00157",
+            "id": 202234236805,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00159",
+            "id": 202234236807,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00160",
+            "id": 202234236808,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00171",
+            "id": 202234236819,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00172",
+            "id": 202234236820,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00173",
+            "id": 202234236821,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00174",
+            "id": 202234236822,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00175",
+            "id": 202234236823,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00176",
+            "id": 202234236824,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00177",
+            "id": 202234236825,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00178",
+            "id": 202234236826,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00179",
+            "id": 202234236827,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00180",
+            "id": 202234236828,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00181",
+            "id": 202234236829,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00188",
+            "id": 202234236836,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00189",
+            "id": 202234236837,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00196",
+            "id": 202234236844,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00197",
+            "id": 202234236845,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00198",
+            "id": 202234236846,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00199",
+            "id": 202234236847,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00200",
+            "id": 202234236848,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00202",
+            "id": 202234236850,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00203",
+            "id": 202234236851,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00204",
+            "id": 202234236852,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00206",
+            "id": 202234236854,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00207",
+            "id": 202234236855,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00208",
+            "id": 202234236856,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00211",
+            "id": 202234236859,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00212",
+            "id": 202234236860,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00213",
+            "id": 202234236861,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00214",
+            "id": 202234236862,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00216",
+            "id": 202234236864,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00217",
+            "id": 202234236865,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00218",
+            "id": 202234236866,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00219",
+            "id": 202234236867,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00220",
+            "id": 202234236868,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00223",
+            "id": 202234236871,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00224",
+            "id": 202234236872,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00225",
+            "id": 202234236873,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00227",
+            "id": 202234236875,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00228",
+            "id": 202234236876,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00229",
+            "id": 202234236877,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00231",
+            "id": 202234236879,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00232",
+            "id": 202234236880,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00233",
+            "id": 202234236881,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00235",
+            "id": 202234236883,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00236",
+            "id": 202234236884,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00237",
+            "id": 202234236885,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00244",
+            "id": 202234236892,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00245",
+            "id": 202234236893,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00246",
+            "id": 202234236894,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00248",
+            "id": 202234236896,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00249",
+            "id": 202234236897,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00250",
+            "id": 202234236898,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00252",
+            "id": 202234236900,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00253",
+            "id": 202234236901,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00254",
+            "id": 202234236902,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00255",
+            "id": 202234236903,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00256",
+            "id": 202234236904,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00257",
+            "id": 202234236905,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00258",
+            "id": 202234236906,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00260",
+            "id": 202234236908,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00261",
+            "id": 202234236909,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00262",
+            "id": 202234236910,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00263",
+            "id": 202234236911,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00266",
+            "id": 202234236914,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00267",
+            "id": 202234236915,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00268",
+            "id": 202234236916,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00270",
+            "id": 202234236918,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00271",
+            "id": 202234236919,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00273",
+            "id": 202234236921,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00274",
+            "id": 202234236922,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00275",
+            "id": 202234236923,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00276",
+            "id": 202234236924,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00277",
+            "id": 202234236925,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00294",
+            "id": 202234236942,
+            "region": "Sapphire",
+            "sanity_requirement": 1,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00291",
+            "id": 202234236939,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00166",
+            "id": 202234236814,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00163",
+            "id": 202234236811,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00201",
+            "id": 202234236849,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00265",
+            "id": 202234236913,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00167",
+            "id": 202234236815,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00195",
+            "id": 202234236843,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00215",
+            "id": 202234236863,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00162",
+            "id": 202234236810,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00293",
+            "id": 202234236941,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00292",
+            "id": 202234236940,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00394",
+            "id": 202234237042,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00396",
+            "id": 202234237044,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00333",
+            "id": 202234236981,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00332",
+            "id": 202234236980,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00436",
+            "id": 202234237084,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00335",
+            "id": 202234236983,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00334",
+            "id": 202234236982,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00435",
+            "id": 202234237083,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00437",
+            "id": 202234237085,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00168",
+            "id": 202234236816,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        },
+        {
+            "code_name": "Loc_00158",
+            "id": 202234236806,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": []
+        },
+        {
+            "code_name": "Loc_00259",
+            "id": 202234236907,
+            "region": "Sapphire",
+            "sanity_requirement": 0,
+            "requires_ids": [
+                {
+                    "or_group": [
+                        22234236649
+                    ]
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "code_name": "Item_12234236648",
+            "id": 12234236648,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_12234236649",
+            "id": 12234236649,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_12234236650",
+            "id": 12234236650,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_22234236648",
+            "id": 22234236648,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_22234236649",
+            "id": 22234236649,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_32234236651",
+            "id": 32234236651,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_32234236652",
+            "id": 32234236652,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_32234236653",
+            "id": 32234236653,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_32234236648",
+            "id": 32234236648,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_32234236649",
+            "id": 32234236649,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_32234236650",
+            "id": 32234236650,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_32234236654",
+            "id": 32234236654,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_32234236655",
+            "id": 32234236655,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_32234236656",
+            "id": 32234236656,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_42234236648",
+            "id": 42234236648,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_42234236649",
+            "id": 42234236649,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_42234236650",
+            "id": 42234236650,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_42234236651",
+            "id": 42234236651,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_52234236648",
+            "id": 52234236648,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_52234236649",
+            "id": 52234236649,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_52234236650",
+            "id": 52234236650,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_52234236651",
+            "id": 52234236651,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_94324253995",
+            "id": 94324253995,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_93161731576",
+            "id": 93161731576,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_92861068892",
+            "id": 92861068892,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_91272169175",
+            "id": 91272169175,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_81262390761",
+            "id": 81262390761,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_72234236648",
+            "id": 72234236648,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_72234236650",
+            "id": 72234236650,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_72234236651",
+            "id": 72234236651,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_62234236648",
+            "id": 62234236648,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_62234236649",
+            "id": 62234236649,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_62234236650",
+            "id": 62234236650,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_62234236651",
+            "id": 62234236651,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_62234236652",
+            "id": 62234236652,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_62234236653",
+            "id": 62234236653,
+            "classification": "progression"
+        },
+        {
+            "code_name": "Item_62234236654",
+            "id": 62234236654,
+            "classification": "progression"
+        }
+    ]
+}
